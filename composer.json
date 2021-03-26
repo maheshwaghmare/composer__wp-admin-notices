@@ -1,0 +1,11 @@
+{
+    "name": "maheshwaghmare/wp-admin-notices",
+    "description": "Mange the WordPress admin notices.",
+    "authors": [
+        {
+            "name": "Mahesh Waghmare",
+            "email": "mwaghmare7@gmail.com"
+        }
+    ],
+    "require": {}
+}
