@@ -1,10 +1,20 @@
 {
     "name": "maheshwaghmare/wp-admin-notices",
-    "description": "Mange the WordPress admin notices.",
+    "type": "library",
+    "version": "0.0.1",
+    "description": "Disply admin notices.",
+    "keywords": [
+        "wordpress",
+        "admin-notices"
+    ],
+    "homepage": "https://github.com/maheshwaghmare/composer__wp-admin-notices",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Mahesh Waghmare",
-            "email": "mwaghmare7@gmail.com"
+            "name": "Mahesh M. Waghmare",
+            "email": "mwaghmare7@gmail.com",
+            "homepage": "https://maheshwaghmare.wordpress.com/",
+            "role": "Developer"
         }
     ],
     "require": {
