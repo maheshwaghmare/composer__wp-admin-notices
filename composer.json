@@ -1,7 +1,7 @@
 {
     "name": "maheshwaghmare/wp-admin-notices",
     "type": "library",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Disply admin notices.",
     "keywords": [
         "wordpress",
@@ -27,12 +27,9 @@
         "wp-coding-standards/wpcs": "^2.0"
     },
     "autoload": {
-        "exclude-from-classmap": [
-            "examples/"
-        ],
-        "classmap": [
-            "php/index.php"
-        ]
+        "psr-4": {
+            "WP_Admin_Notices\\": "php/"
+        }
     },
     "minimum-stability": "dev"
 }
